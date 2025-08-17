@@ -67,4 +67,4 @@ Abra e execute o notebook desafio.ipynb em um ambiente como Jupyter Notebook ou 
 ## Equipe
 Daniel Lins Toqueiro
 - Grupo 35
-- GitHub: [https://github.com/daniellins](https://github.com/daniellins)
+- GitHub: [https://github.com/dtoqueiro/postech_ibovespa_trend_forecast](GitHub do Projeto)
