@@ -1,7 +1,7 @@
 [project]
-name = "desafio-01-v3"
+name = "postech_ibovespa_trend_forecast"
 version = "0.1.0"
-description = "Add your description here"
+description = "Tech Challenge - Previsão Ibovespa"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
